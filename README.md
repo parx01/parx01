@@ -1,16 +1,47 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/style.css" rel="stylesheet">
+    <title>Go Blue!</title>
+</head>
+</head>
+<body>
+    <main>
+        <h1>The University of Michigan</h1>
+        <div>
+            <h2>About</h2>
+            <p>A top-ranked public university, the University of Michigan has a tradition of excellence in research, learning and teaching, sports and the arts, and more.</p>
+        </div>
+        <div>
+            <h2>Quick Facts</h2>
+            <h3>Famous Alumni</h3>
+            <ul>
+                <li>Larry Page</li>
+                <li>Darren Chriss</li>
+                <li>James Earl Jones</li>
+                <li>Tom Brady</li>
+            </ul>
 
-<!--
-**parx01/parx01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+            <a href="https://blog.collegevine.com/best-public-universities-in-the-us/"><h3>Best Public Universities</h3></a>
+            <ol>
+                <li><strong>The University of Michigan</strong></li>
+                <li>University of North Carolina at Chapel Hill</li>
+                <li>University of Virginia</li>
+                <li>University of California, Berkeley</li>
+                <li>University of California, Los Angeles</li>
+            </ol>
+        </div>
 
-Here are some ideas to get you started:
+        <div>
+            <h2>Gallery</h2>
+            <img src="images/band.jpeg" alt="University of Michigan Block M" width="90%">
+            <img src="images/diag.jpg" alt="University of Michigan Diag" width="90%">
+            <img src="images/lawquad.jpeg" alt="University of Michigan Law Quad" width="90%">
+        </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    </main>
+</body>
+</html>
